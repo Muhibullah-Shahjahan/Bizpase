@@ -511,6 +511,15 @@ footer p{
 .footer-last form input:focus{
 	outline: none;
 }
+.footer-last button{
+	background-color: #18d26e;
+	color: white;
+	transition: 0.5s;
+}
+.footer-last button:hover{
+	background-color: white;
+	color: #18d26e;
+}
 .copy_right{
 	background-color: black!important;
 	color: white;
